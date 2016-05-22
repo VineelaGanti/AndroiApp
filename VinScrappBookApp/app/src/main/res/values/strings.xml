@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VinScrappBookApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="Intro">This is a ScrappBookingApp - Developed by Vindhya!</string>
+    <string name="chinese">教程点</string>
+    <string name="dusk">dusk</string>
+    <string name="xxx">xxx</string>
+</resources>
